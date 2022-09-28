@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaifAtom
 - 👀 I’m interested in Blockchain Dev, Game Dev.
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently a blockchain engineer and smart contract security auditor
 - 📫 How to reach me Email: Saifgmr@gmail.com
 
 <!---
