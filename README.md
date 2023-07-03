@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saif Sghaier</h1>
 <h3 align="center">I am a highly experienced smart contract auditor with a proven track record of delivering high-quality results. With over 2 years of experience in the field, I have audited over 200 projects and helped clients identify and resolve vulnerabilities in their smart contracts. Before becoming a smart contract auditor, I worked as a blockchain engineer for 1 year, giving me a deep understanding of the blockchain ecosystem and the technical aspects of smart contract development. This experience has allowed me to provide expert recommendations and solutions.</h3>
-
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="image description" align="right" width="400px"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifatom&label=Profile%20views&color=0e75b6&style=flat" alt="saifatom" /> </p>
 
 - 🔭 I’m currently working for [Vibranium Audits](https://www.linkedin.com/company/vibraniumaudits/)
