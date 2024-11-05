@@ -3,9 +3,9 @@
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="image description" align="right" width="400px"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifatom&label=Profile%20views&color=0e75b6&style=flat" alt="saifatom" /> </p>
 
-- 🔭 I’m currently looking for opportunities as SOC analyst.
+- 🔭 I’m currently looking for opportunities as Smart contract Auditor.
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Penetration Testing**
 
 - 👨‍💻 All of my projects are available at [Saif Sghaier](https://github.com/SaifAtom?tab=repositories)
 
