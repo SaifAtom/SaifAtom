@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saifgmr@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://github.com/SaifAtom/SaifAtom/blob/main/Saif_Sghaier_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/SaifAtom/SaifAtom/blob/main/Saif%20Sghaier%20-%20CV.pdf)
 
 - ⚡ Fun fact **I cannot sleep with a bug in my code.**
 
